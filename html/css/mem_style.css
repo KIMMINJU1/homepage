@@ -1,0 +1,35 @@
+/*join*/
+
+join_container {width:320px; margin-left:auto; margin-right:auto; margin-top:10px; margin-bottom:50px;}
+
+join_title {font-family:돋움; font-size:20px; font-weight:bold; text-align:center;}
+
+join_field {padding:20px; margin-top:20px; border:1px solid pink;}
+
+join_label {width:100px; float:left; margin-left:20px; margin-top:15px; font-size:14px;}
+
+join_input {width:120px; float:right; margin-right:20px; margin-top:10px;}
+
+join_button1 {float:left; width:120px; margin-top:15px; margin-left:25px;}
+
+join_button2 {float:right; width:120px; margin-top:15px; margin-right:25px;}
+
+/*login*/
+
+login_container {width:240px; margin-left:auto; margin-right:auto; margin-top:10px; margin-bottom:50px;}
+
+login_box {width:100%; border:1px solid pink; margin-top:20px;}
+
+login_title {font-family:돋움; font-size:20px; font-weight:bold; margin-top:20px; text-align:center;}
+
+login_label {width:60px; float:left; margin-left:20px; margin-top:25px;}
+
+login_input {width:120px; float:right; margin-right:20px; margin-top:20px;}
+
+join_button_div {width:200px; margin-top:20px; margin-left:auto; margin-right:auto; margin-bottom:20px;}
+
+join_button {width:100%;}
+
+/*modify*/
+
+modi_id {width:100px; float:lest; margin-left:20px; margin-top:14px; font-size:14px;}
